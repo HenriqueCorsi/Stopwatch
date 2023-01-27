@@ -6,7 +6,7 @@ window.onload = function(){
     var buttonStart = document.getElementById('button-start');
     var buttonStop = document.getElementById('button-stop');
     var buttonReset = document.getElementById('button-reset');
-    var Interval;
+    var interval;
 
     
 }
