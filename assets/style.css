@@ -17,6 +17,7 @@
     border: none;
     border-radius: 10px;
     background-color: #0D1826;
+    box-shadow: 5px -7px 12px black;
 }
 
 .container > h2, .container > p, p > span, .button-box{
